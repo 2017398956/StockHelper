@@ -7,23 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="com.squareup.retrofit2:retrofit:2.3.0" level="project" />
-    <orderEntry type="library" exported="" name="com.squareup.retrofit2:converter-scalars:2.3.0" level="project" />
-    <orderEntry type="library" exported="" name="org.mybatis:mybatis:3.4.4" level="project" />
-    <orderEntry type="library" exported="" name="mysql:mysql-connector-java:6.0.6" level="project" />
-    <orderEntry type="library" exported="" name="com.squareup.retrofit2:converter-gson:2.3.0" level="project" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/mybatis-3.4.4.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" exported="" name="org.xerial:sqlite-jdbc:3.23.1" level="project" />
-    <orderEntry type="library" exported="" name="org.apache.poi:poi-ooxml:3.17" level="project" />
-    <orderEntry type="library" exported="" name="net.sourceforge.jexcelapi:jxl:2.6.12" level="project" />
-    <orderEntry type="library" exported="" name="com.alibaba:fastjson:1.2.47" level="project" />
   </component>
 </module>

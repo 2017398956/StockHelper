@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d704b2-ada3-49f0-a0b4-66e1bcc42926" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/nfl/test/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa2b1278-73fe-4334-992f-87941862b13d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\mysoftware\JetBrains\IntelliJ IDEA 2019.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="1UKoDjvmPriR3T5D8ubfLZnXg3z" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1mKeYl9IGvSTnK1QIXEHbxV02a2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaDemo" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -42,51 +41,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D:/mysoftware/JetBrains/IDEAProject/StockHelper" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.D:/mysoftware/JetBrains/IDEAProject/StockHelper" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="35d704b2-ada3-49f0-a0b4-66e1bcc42926" name="Default Changelist" comment="" />
-      <created>1575114529238</created>
+      <changelist id="fa2b1278-73fe-4334-992f-87941862b13d" name="Default Changelist" comment="" />
+      <created>1609246759877</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575114529238</updated>
-      <workItem from="1575114530388" duration="75000" />
-      <workItem from="1575185893037" duration="456000" />
-      <workItem from="1575186356369" duration="609000" />
-      <workItem from="1575194619766" duration="181000" />
-      <workItem from="1600874049923" duration="877000" />
-      <workItem from="1600961588780" duration="599000" />
-      <workItem from="1600963655125" duration="593000" />
-      <workItem from="1601215156995" duration="883000" />
-      <workItem from="1603373378390" duration="696000" />
-      <workItem from="1603381368062" duration="27000" />
-      <workItem from="1603558811314" duration="450000" />
+      <updated>1609246759877</updated>
+      <workItem from="1609246762349" duration="57000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="270" y="0" key="SettingsEditor" timestamp="1603559021469">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603559021469" />
   </component>
 </project>
