@@ -7,20 +7,21 @@ import java.util.Random;
 public class BallNumberCreator {
 
     private List<Integer> ballNumbers = new ArrayList<>();
-    private List<Integer> filterNumbers = null , filterNumbersOrgin = new ArrayList<>();
-    private int length, max;
-
-    private BallNumberCreator() {
-    }
+    private List<Integer> filterNumbers = new ArrayList<>();
+    private List<Integer> filterNumbersOrigin = new ArrayList<>();
+    private int length;
+    private int max;
 
     public BallNumberCreator(List<Integer> filterNumbers, int length, int max) {
-        this.filterNumbers = filterNumbers == null ? new ArrayList<>() : filterNumbers;
-        this.filterNumbersOrgin.addAll(this.filterNumbers) ;
+        if (null != filterNumbers) {
+            this.filterNumbers.addAll(filterNumbers);
+            filterNumbersOrigin = filterNumbers ;
+        }
         this.length = length;
         this.max = max;
     }
 
-    public void createBallNumberList() {
+    private void createBallNumberList() {
         if (ballNumbers.size() < length) {
             int selectNumber = new Random().nextInt(max) + 1;
             if (filterNumbers.size() > 0) {
@@ -30,19 +31,30 @@ public class BallNumberCreator {
                         return;
                     }
                 }
-            }
-            ballNumbers.add(selectNumber);
-            if (ballNumbers.size() < length) {
+
+                ballNumbers.add(selectNumber);
+                filterNumbers.add(selectNumber);
+                createBallNumberList();
+            } else {
+                ballNumbers.add(selectNumber);
+                filterNumbers.add(selectNumber);
                 createBallNumberList();
             }
         }
+    }
+
+    public void reCreateBallNumberList() {
+        reset();
+        createBallNumberList();
     }
 
     public List<Integer> getBallNumbers() {
         return ballNumbers;
     }
 
-    public void reset(){
+    private void reset() {
         ballNumbers.clear();
+        filterNumbers.clear();
+        filterNumbers.addAll(filterNumbersOrigin);
     }
 }
