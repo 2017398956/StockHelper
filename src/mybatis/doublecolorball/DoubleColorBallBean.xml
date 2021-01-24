@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="personal.nfl.doublecolorball.bean.DoubleColorBallBean">
+    <!--    <select id="selectUser" parameterType="int" resultType="com.nfl.mybatis.beans.User">-->
+    <!--        SELECT *-->
+    <!--        FROM user-->
+    <!--        WHERE id = #{id}-->
+    <!--    </select>-->
+
+    <select id="selectAll" resultType="personal.nfl.doublecolorball.bean.DoubleColorBallBean">
+        SELECT *
+        FROM history_result
+    </select>
+
+    <select id="insert" parameterType="personal.nfl.doublecolorball.bean.DoubleColorBallBean" resultType="int">
+        INSERT INTO history_result
+        VALUES (#{occur_date}, #{index}, #{redBall1},
+                #{redBall2}, #{redBall3}, #{redBall4},
+                #{redBall5}, #{redBall6}, #{blueBall})
+    </select>
+
+</mapper>

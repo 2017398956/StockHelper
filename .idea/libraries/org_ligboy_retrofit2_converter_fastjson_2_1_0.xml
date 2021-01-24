@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="org.ligboy.retrofit2:converter-fastjson:2.1.0" type="repository">
+    <properties maven-id="org.ligboy.retrofit2:converter-fastjson:2.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/converter-fastjson-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/retrofit-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/converter-fastjson-2.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/retrofit-2.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-3.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-1.8.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/converter-fastjson-2.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/retrofit-2.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-3.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-1.8.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

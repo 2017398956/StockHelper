@@ -1,11 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa2b1278-73fe-4334-992f-87941862b13d" name="Default Changelist" comment="" />
+    <list default="true" id="fa2b1278-73fe-4334-992f-87941862b13d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_alibaba_fastjson_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_retrofit2_converter_gson_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_retrofit2_converter_gson_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_retrofit2_converter_scalars_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_retrofit2_retrofit_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/net_sourceforge_jexcelapi_jxl_2_6_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_poi_poi_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jxls_jxls_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_ligboy_retrofit2_converter_fastjson_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_slf4j_slf4j_nop_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.13-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.13-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-collections4-4.4-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-collections4-4.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-collections4-4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-jexl3-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-math3-3.6.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-math3-3.6.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-math3-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-fastjson-2.1.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-fastjson-2.1.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-fastjson-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-gson-2.2.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-gson-2.2.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-gson-2.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-gson-2.9.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-gson-2.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-gson-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-scalars-2.2.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-scalars-2.2.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/converter-scalars-2.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.13-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.13-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.16-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.16-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.8.5-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jxl-2.6.12-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jxl-2.6.12-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jxl-2.6.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jxls-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2.14-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.22-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.14.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.14.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.3.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.3.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.6.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.6.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-1.11.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-1.11.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-1.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-1.17.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-1.17.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-1.8.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-1.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-4.1.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-4.1.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/poi-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/protobuf-java-3.11.4-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/protobuf-java-3.11.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/protobuf-java-3.11.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/retrofit-2.1.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/retrofit-2.1.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/retrofit-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/retrofit-2.2.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/retrofit-2.2.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/retrofit-2.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/retrofit-2.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/retrofit-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.6.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.6.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-nop-1.6.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-nop-1.6.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-nop-1.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mybatis/DoubleColorBallConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mybatis/doublecolorball/DoubleColorBallBean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/nfl/doublecolorball/bean/DoubleColorBallBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/nfl/doublecolorball/util/DoubleColorBallUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/nfl/mybatis/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/nfl/mybatis/beans/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/nfl/utils/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/nfl/utils/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/nfl/utils/MySqlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/nfl/utils/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockHelper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StockHelper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/doublecolorball/BallNumberCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/doublecolorball/BallNumberCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/doublecolorball/DoubleColorBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/doublecolorball/DoubleColorBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/mybatis/MybatisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/mybatis/beans/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/mybatis/beans/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/stockhelper/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/stockhelper/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/stockhelper/beans/StockInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/stockhelper/beans/StockInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/stockhelper/netservice/GetStocksInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/stockhelper/netservice/GetStocksInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/stockhelper/netservice/GetStocksInfoService2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/stockhelper/netservice/GetStocksInfoService2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/stockhelper/utils/net/CommonNetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/stockhelper/utils/net/CommonNetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/stockhelper/utils/net/CustomCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/stockhelper/utils/net/CustomCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/stockhelper/utils/net/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/stockhelper/utils/net/HttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/threadlocal/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/threadlocal/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/threadlocal/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/threadlocal/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/utils/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/utils/ExcelUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/utils/GsonTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/utils/GsonTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/wanxin/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/wanxin/Dept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/wanxin/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/wanxin/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nfl/wanxin/WanXin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/nfl/wanxin/WanXin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configuration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/configuration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -15,26 +155,77 @@
     </option>
   </component>
   <component name="ProjectId" id="1mKeYl9IGvSTnK1QIXEHbxV02a2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
-    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/personal/nfl/utils" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mysoftware\JetBrains\IDEAProject\StockHelper\src\personal\nfl\utils" />
+      <recent name="D:\mysoftware\JetBrains\IDEAProject\StockHelper\src\mybatis\doubleball" />
+      <recent name="D:\mysoftware\JetBrains\IDEAProject\StockHelper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DoubleColorBallUtil (1)">
+    <configuration name="DoubleColorBallUtil (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="personal.nfl.doublecolorball.util.DoubleColorBallUtil" />
+      <module name="StockHelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="personal.nfl.doublecolorball.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleColorBallUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nfl.doublecolorball.util.DoubleColorBallUtil" />
+      <module name="StockHelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nfl.doublecolorball.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nfl.mybatis.MybatisTest" />
+      <module name="StockHelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nfl.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -67,6 +258,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleColorBallUtil (1)" />
+        <item itemvalue="Application.DoubleColorBallUtil" />
+        <item itemvalue="Application.MybatisTest" />
         <item itemvalue="Gradle.D:/mysoftware/JetBrains/IDEAProject/StockHelper" />
       </list>
     </recent_temporary>
@@ -79,11 +273,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609246759877</updated>
-      <workItem from="1609246762349" duration="2824000" />
+      <workItem from="1609246762349" duration="3212000" />
+      <workItem from="1609330382242" duration="656000" />
+      <workItem from="1610267705044" duration="1204000" />
+      <workItem from="1610544420671" duration="199000" />
+      <workItem from="1611384562006" duration="10892000" />
+      <workItem from="1611404542553" duration="1814000" />
+      <workItem from="1611454084419" duration="16851000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
