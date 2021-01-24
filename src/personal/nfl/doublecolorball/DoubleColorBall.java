@@ -9,17 +9,17 @@ import java.util.List;
 public class DoubleColorBall {
 
     // 本期中奖的红球号码
-    private static int[] prizeRedBallNumbers = new int[]{4, 19, 20, 22, 28, 33};
+    private static int[] prizeRedBallNumbers = new int[]{2, 4, 7, 24, 25, 32};
     // 本期中奖的蓝球号码
-    private static int prizeBlueBallNumber = 6;
+    private static int prizeBlueBallNumber = 13;
     // 要过滤掉的红球号码
-    private static List<Integer> redBallFilter = Arrays.asList(1, 5, 11, 22, 23, 26);
+    private static List<Integer> redBallFilter = Arrays.asList(2, 3, 13, 24, 33, 25);
     // 要过滤掉的蓝球号码
-    private static List<Integer> blueBallFilter = Arrays.asList(15, 10, 4, 9, 3);
+    private static List<Integer> blueBallFilter = Arrays.asList(11, 1, 7, 3, 9);
     // 预测收益
     private static float money = 0;
     // 购买票数
-    private static int tickets = 1000;
+    private static int tickets = 100000;
 
     public static void main(String[] args) {
 
