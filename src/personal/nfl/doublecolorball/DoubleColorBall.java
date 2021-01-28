@@ -19,7 +19,7 @@ public class DoubleColorBall {
     // 预测收益
     private static float money = 0;
     // 购买票数
-    private static int tickets = 100000;
+    private static int tickets = 100;
 
     public static void main(String[] args) {
 
